@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinal_EntradaAvion", "ProyectoFinal_EntradaAvion\ProyectoFinal_EntradaAvion.csproj", "{569DF504-8B55-495C-B9A1-71E008FE8A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfacesPersonalizadas", "interfacesPersonalizadas\interfacesPersonalizadas.csproj", "{A08D909A-85CC-400C-A3C2-C24FD0765D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569DF504-8B55-495C-B9A1-71E008FE8A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569DF504-8B55-495C-B9A1-71E008FE8A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569DF504-8B55-495C-B9A1-71E008FE8A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569DF504-8B55-495C-B9A1-71E008FE8A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08D909A-85CC-400C-A3C2-C24FD0765D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08D909A-85CC-400C-A3C2-C24FD0765D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08D909A-85CC-400C-A3C2-C24FD0765D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08D909A-85CC-400C-A3C2-C24FD0765D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {628D0C31-8BB7-41E5-8BFE-5AADF0A8F851}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.interfazBoleto.resources
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\bin\Debug\ControlPersonalizado.exe.config
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\bin\Debug\ControlPersonalizado.exe
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\bin\Debug\ControlPersonalizado.pdb
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.exe
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.pdb
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\ControlPersonalizado\obj\Debug\ControlPersonalizado.exe.config

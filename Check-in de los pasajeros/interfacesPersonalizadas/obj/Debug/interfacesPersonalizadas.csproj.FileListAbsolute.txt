@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\bin\Debug\interfacesPersonalizadas.dll
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\bin\Debug\interfacesPersonalizadas.pdb
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.interfazPasajero.resources
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.dll
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.pdb
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.interfazVuelo.resources
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\ProyectoFinal_EntradaAvion\interfacesPersonalizadas\obj\Debug\interfacesPersonalizadas.Properties.Resources.resources

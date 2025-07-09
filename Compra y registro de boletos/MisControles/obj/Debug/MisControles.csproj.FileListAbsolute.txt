@@ -1,0 +1,11 @@
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\bin\Debug\MisControles.dll
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\bin\Debug\MisControles.pdb
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.dll
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.pdb
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.interfazBoleto.resources
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.interfazPasajero.resources
+C:\Users\diego\OneDrive\Documentos\Topicos Proyectos\Borrador_Proyecto\MisControles\obj\Debug\MisControles.interfazDestino.resources
