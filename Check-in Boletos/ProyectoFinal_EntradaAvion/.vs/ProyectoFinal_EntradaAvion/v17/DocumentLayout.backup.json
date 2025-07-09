@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\proyectofinal_entradaavion\\interfacespersonalizadas\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|solutionrelative:interfacespersonalizadas\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacespersonalizadas\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|solutionrelative:interfacespersonalizadas\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacespersonalizadas\\interfazvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|solutionrelative:interfacespersonalizadas\\interfazvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacespersonalizadas\\interfazvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A08D909A-85CC-400C-A3C2-C24FD0765D2A}|interfacesPersonalizadas\\interfacesPersonalizadas.csproj|solutionrelative:interfacespersonalizadas\\interfazvuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\frmtablavuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\frmtablavuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\frmtablavuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\frmtablavuelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\frmpasajeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\frmpasajeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\frmentrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\frmpasajeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\frmpasajeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\clsdaoboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\clsdaoboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\frmentrada.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\frmentrada.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\proyectofinal_entradaavion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569DF504-8B55-495C-B9A1-71E008FE8A38}|ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion.csproj|solutionrelative:proyectofinal_entradaavion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTablaVuelos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:01:50.069Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "interfazPasajero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazPasajero.cs",
+              "RelativeDocumentMoniker": "interfacesPersonalizadas\\interfazPasajero.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazPasajero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "interfacesPersonalizadas\\interfazPasajero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T23:56:10.147Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "interfazPasajero.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazPasajero.cs",
+              "RelativeDocumentMoniker": "interfacesPersonalizadas\\interfazPasajero.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazPasajero.cs",
+              "RelativeToolTip": "interfacesPersonalizadas\\interfazPasajero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T23:56:21.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "interfazVuelo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazVuelo.cs",
+              "RelativeDocumentMoniker": "interfacesPersonalizadas\\interfazVuelo.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazVuelo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "interfacesPersonalizadas\\interfazVuelo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:06:52.239Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "interfazVuelo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazVuelo.cs",
+              "RelativeDocumentMoniker": "interfacesPersonalizadas\\interfazVuelo.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\interfacesPersonalizadas\\interfazVuelo.cs",
+              "RelativeToolTip": "interfacesPersonalizadas\\interfazVuelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:20:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTablaVuelos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\frmTablaVuelos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:23:45.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPasajeros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmPasajeros.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\frmPasajeros.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmPasajeros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\frmPasajeros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T23:51:39.665Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmEntrada.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmEntrada.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\frmEntrada.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmEntrada.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\frmEntrada.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:45:02.262Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPasajeros.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmPasajeros.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\frmPasajeros.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmPasajeros.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\frmPasajeros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T23:51:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmEntrada.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmEntrada.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\frmEntrada.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmEntrada.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\frmEntrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:49:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vuelo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\Vuelo.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\Vuelo.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\Vuelo.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\Vuelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:26:10.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsDaoBoletos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\clsDaoBoletos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\clsDaoBoletos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\clsDaoBoletos.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\clsDaoBoletos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:36:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\Cliente.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\Cliente.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:42:40.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmEntrada.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmEntrada.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\frmEntrada.Designer.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\frmEntrada.Designer.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\frmEntrada.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:57:58.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_EntradaAvion\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\ProyectoFinal_EntradaAvion\\ProyectoFinal_EntradaAvion\\Program.cs",
+              "RelativeToolTip": "ProyectoFinal_EntradaAvion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:04:31.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

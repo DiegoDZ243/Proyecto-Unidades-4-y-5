@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\miscontroles\\interfazboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|solutionrelative:miscontroles\\interfazboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\miscontroles\\interfazboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|solutionrelative:miscontroles\\interfazboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmvuelosresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmvuelosresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmvuelosresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmvuelosresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmimprimeboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmimprimeboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmimprimeboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmimprimeboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|c:\\users\\diego\\onedrive\\documentos\\topicos proyectos\\borrador_proyecto\\borrador_proyecto\\frmboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmboletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmcupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmcupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmcupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmcupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmconsultaviaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmconsultaviaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmconsultaviaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmconsultaviaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\vuelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\miscontroles\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|solutionrelative:miscontroles\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\miscontroles\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|solutionrelative:miscontroles\\interfazpasajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\miscontroles\\interfazdestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|solutionrelative:miscontroles\\interfazdestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\miscontroles\\interfazdestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|solutionrelative:miscontroles\\interfazdestino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\clsdaodestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\clsdaodestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmconsultaviaje.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmconsultaviaje.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\borrador_proyecto\\frmconsultaviaje.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D172DA94-5A63-4F31-A4CA-DEBDAE8E601A}|Borrador_Proyecto\\Borrador_Proyecto.csproj|solutionrelative:borrador_proyecto\\frmconsultaviaje.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\miscontroles\\interfazdestino.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF70ED2-0947-4B6D-B831-AA536A7A6652}|MisControles\\MisControles.csproj|solutionrelative:miscontroles\\interfazdestino.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vuelo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\Vuelo.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\Vuelo.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\Vuelo.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\Vuelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:00:53.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVuelosResultado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmVuelosResultado.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmVuelosResultado.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmVuelosResultado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Borrador_Proyecto\\frmVuelosResultado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:07:19.075Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmVuelosResultado.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmVuelosResultado.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmVuelosResultado.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmVuelosResultado.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\frmVuelosResultado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:07:20.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "interfazBoleto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazBoleto.cs",
+              "RelativeDocumentMoniker": "MisControles\\interfazBoleto.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazBoleto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MisControles\\interfazBoleto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:52:40.181Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "interfazBoleto.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazBoleto.cs",
+              "RelativeDocumentMoniker": "MisControles\\interfazBoleto.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazBoleto.cs",
+              "RelativeToolTip": "MisControles\\interfazBoleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:39:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmImprimeBoletos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmImprimeBoletos.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmImprimeBoletos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmImprimeBoletos.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\frmImprimeBoletos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:32:19.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmImprimeBoletos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmImprimeBoletos.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmImprimeBoletos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmImprimeBoletos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Borrador_Proyecto\\frmImprimeBoletos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T17:31:09.145Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBoletos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmBoletos.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmBoletos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmBoletos.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\frmBoletos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:40:02.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmBoletos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmBoletos.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmBoletos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmBoletos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Borrador_Proyecto\\frmBoletos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T18:12:24.797Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCupo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmCupo.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmCupo.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmCupo.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\frmCupo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T03:00:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCupo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmCupo.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmCupo.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmCupo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Borrador_Proyecto\\frmCupo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:21:06.767Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmConsultaViaje.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmConsultaViaje.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\frmConsultaViaje.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T01:41:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmConsultaViaje.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmConsultaViaje.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Borrador_Proyecto\\frmConsultaViaje.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:33:45.031Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Destino.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\Destino.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\Destino.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\Destino.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\Destino.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:38:56.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\Boleto.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\Boleto.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\Boleto.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\Boleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:10:27.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "interfazPasajero.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazPasajero.cs",
+              "RelativeDocumentMoniker": "MisControles\\interfazPasajero.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazPasajero.cs",
+              "RelativeToolTip": "MisControles\\interfazPasajero.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:44:06.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "interfazPasajero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazPasajero.cs",
+              "RelativeDocumentMoniker": "MisControles\\interfazPasajero.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazPasajero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MisControles\\interfazPasajero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:07:16.765Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "interfazDestino.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazDestino.cs",
+              "RelativeDocumentMoniker": "MisControles\\interfazDestino.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazDestino.cs",
+              "RelativeToolTip": "MisControles\\interfazDestino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:13:22.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "interfazDestino.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazDestino.cs",
+              "RelativeDocumentMoniker": "MisControles\\interfazDestino.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazDestino.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MisControles\\interfazDestino.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:11:58.012Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsDaoDestinos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\clsDaoDestinos.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\clsDaoDestinos.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\clsDaoDestinos.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\clsDaoDestinos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:00:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmConsultaViaje.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.Designer.cs",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmConsultaViaje.Designer.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.Designer.cs",
+              "RelativeToolTip": "Borrador_Proyecto\\frmConsultaViaje.Designer.cs",
+              "ViewState": "AgIAAIEBAAAAAAAAAAASwIQBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:10:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmConsultaViaje.resx",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.resx",
+              "RelativeDocumentMoniker": "Borrador_Proyecto\\frmConsultaViaje.resx",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\Borrador_Proyecto\\frmConsultaViaje.resx",
+              "RelativeToolTip": "Borrador_Proyecto\\frmConsultaViaje.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoDAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-08T03:28:59.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "interfazDestino.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazDestino.Designer.cs",
+              "RelativeDocumentMoniker": "MisControles\\interfazDestino.Designer.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Topicos Proyectos\\Borrador_Proyecto\\MisControles\\interfazDestino.Designer.cs",
+              "RelativeToolTip": "MisControles\\interfazDestino.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAMBUwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:19:59.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
